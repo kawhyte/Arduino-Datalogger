@@ -2,6 +2,10 @@
 
 This system was designed to assist farmers in third world countries effectively manage farms.
 
+o	Created the “perfect” environmental conditions for optimal maintenance and growth of plants (through remote monitoring).
+o	Cost Benefit Analysis of the system showed a Net Benefit of over $7000.00 per year 
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
