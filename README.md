@@ -1,10 +1,6 @@
-# ArduinoDatalogger
-SD card Temp &amp; Humidity Datalogger 
+# Indoor Farming/Greenhouse Data-logger System
 
-
-# Project Title
-
-One Paragraph of project description goes here
+This system was designed to assist farmers in third world countries effectively manage farms.
 
 ## Getting Started
 
@@ -76,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Kenny Whyte** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
