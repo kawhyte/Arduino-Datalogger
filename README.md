@@ -10,6 +10,8 @@ This system was designed to assist farmers in third world countries effectively 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+![screen shot 2018-04-05 at 6 19 41 pm](https://user-images.githubusercontent.com/9040355/38395001-c2cdd3fc-38fe-11e8-9d9a-206fed25e160.png)
+
 
 
 
