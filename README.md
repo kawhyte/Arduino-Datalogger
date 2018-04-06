@@ -8,37 +8,38 @@ This system was designed to assist farmers in third world countries effectively 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ![screen shot 2018-04-05 at 6 19 41 pm](https://user-images.githubusercontent.com/9040355/38395001-c2cdd3fc-38fe-11e8-9d9a-206fed25e160.png)
 
 
 
+#### IDE Used
 
-
-
-### Prerequisites
-
-What things you need to install the software and how to install them
+The open-source Arduino Software (IDE) - https://www.arduino.cc/en/Main/Software 
 
 ```
-Give examples
+Knowledge of C or C++ is helpful
 ```
 
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+### Value/Benefit to the user
 
 ```
-Give the example
+* Remote/automated monitoring 
+* Creating the “perfect” environmental conditions for optimal maintenance and growth (yield plants/crop all year) 
+* Minimizing some of the risk and effects of unpredictable elements
+* Make important business decisions
+* Lower human errors
+
 ```
 
-And repeat
+Criteria and Goals 
 
 ```
-until finished
+* Intended for small indoor farms /Greenhouses
+* Free for everyone to use - Open source
+* Easy to understand and use for the end user
+* Low cost (Hardware and Software) - MySQL, Google Docs etc.
+* Simple Maintenance
+
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
