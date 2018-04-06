@@ -2,6 +2,8 @@
 
 This system was designed to assist farmers in third world countries effectively manage farms.
 
+![2](https://user-images.githubusercontent.com/9040355/38417279-aca36ce2-3965-11e8-8598-a62596cfa960.PNG)
+
 *	Created the “perfect” environmental conditions for optimal maintenance and growth of plants (through remote monitoring).
 *	Cost Benefit Analysis of the system showed a Net Benefit of over $7000.00 per year 
 
@@ -48,12 +50,13 @@ Criteria and Goals
 
 ## How does it work?
 
+![how does it work](https://user-images.githubusercontent.com/9040355/38416395-92b98f6c-3962-11e8-8632-dbc9fb647b81.PNG)
 
+## Deployment and Results - Prototype in action 
 
-## Deployment - Protoype in action 
+Real world Farming/Greenhouse test
 
-Add additional notes about how to deploy this on a live system
-
+![result](https://user-images.githubusercontent.com/9040355/38417306-cb7d0d62-3965-11e8-9f83-5686ecfd56d5.PNG)
 
 ## Authors
 
