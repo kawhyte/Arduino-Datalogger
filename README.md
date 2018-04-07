@@ -58,9 +58,10 @@ Real world Farming/Greenhouse test
 
 ![Logger](https://media.giphy.com/media/5bkD1YaJdWxgfp8efn/giphy.gif)
 
-![result](https://user-images.githubusercontent.com/9040355/38417306-cb7d0d62-3965-11e8-9f83-5686ecfd56d5.PNG)
-![result2](https://user-images.githubusercontent.com/9040355/38418139-288f796a-3969-11e8-9f0b-184e409046ee.PNG)
-![result3](https://user-images.githubusercontent.com/9040355/38418165-49f556c4-3969-11e8-95d4-33723f65478a.PNG)
+
+| `Preparation` | `Day One` | `Day Seven` |
+| --- | --- | --- |
+| ![result](https://user-images.githubusercontent.com/9040355/38417306-cb7d0d62-3965-11e8-9f83-5686ecfd56d5.PNG) | ![result2](https://user-images.githubusercontent.com/9040355/38418139-288f796a-3969-11e8-9f0b-184e409046ee.PNG) | ![result3](https://user-images.githubusercontent.com/9040355/38418165-49f556c4-3969-11e8-95d4-33723f65478a.PNG) |
 
 ## Authors
 
